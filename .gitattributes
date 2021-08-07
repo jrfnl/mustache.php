@@ -1,5 +1,4 @@
 /test export-ignore
-/CONTRIBUTING.md export-ignore
 /.php_cs export-ignore
 /phpunit.xml.dist export-ignore
 /.styleci.yml export-ignore
