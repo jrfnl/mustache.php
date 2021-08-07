@@ -1,7 +1,8 @@
-/test export-ignore
-/.php_cs export-ignore
-/phpunit.xml.dist export-ignore
-/.styleci.yml export-ignore
-/.gitmodules export-ignore
-/.gitignore export-ignore
+/.gitattributes export-ignore
 /.github export-ignore
+/.gitignore export-ignore
+/.gitmodules export-ignore
+/.php_cs export-ignore
+/.styleci.yml export-ignore
+/phpunit.xml.dist export-ignore
+/test export-ignore
